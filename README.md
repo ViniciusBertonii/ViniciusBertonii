@@ -1,13 +1,23 @@
-# 🙋🏻‍♂️ Olá, eu sou o Vinícius, mas pode me chamar de Vini! 
+## 🙋🏻‍♂️ Olá, eu sou o Vinícius, mas pode me chamar de Vini! 
+
+- Tenho 25 anos e sou estudante do 3º semestre de Ciência da Computação na PUCRS.
+
+- Atualmente meu maior foco de estudos é no campo de otimização de Algoritmos e Estrutura de Dados. 
+
+- Para dúvidas, sugestões ou propostas de projetos, basta entrar em contato através dos canais disponíveis no README.
+
+- Desde já agradeço a visita e espero que tenha gostado de me conhecer um pouco melhor.
 
 
-Meu contato principal é: 
+##
+
 <div>
+  Meu contato principal é: <br>
   <a href="https://www.linkedin.com/in/marcos-bertoni-80b391236/" target= "_blank"><img align="center" alt= "vini-Java" height= "60" width= "70"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
 
-
+##
 
 ### Essas são as técnologias que mais uso no dia a dia!
 
